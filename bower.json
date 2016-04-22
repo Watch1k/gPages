@@ -1,0 +1,19 @@
+{
+  "name": "Watch1k-Project",
+  "description": "Gulp",
+  "main": "",
+  "authors": [
+    "Watch1k"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Watch1k/Gulp",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
